@@ -6,7 +6,8 @@ namespace SNAKE_XENZIA
     {
         static void Main(string[] args)
         {
-            
+            Console.Title = "eric";
+            Console.ReadKey();
         }
     }
 }
