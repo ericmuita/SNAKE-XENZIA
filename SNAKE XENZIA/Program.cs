@@ -6,7 +6,7 @@ namespace SNAKE_XENZIA
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
